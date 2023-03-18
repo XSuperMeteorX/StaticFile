@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "gulp-htmlclean": "^2.7.22"
+  }
+}
