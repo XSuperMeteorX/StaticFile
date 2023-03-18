@@ -1,2 +1,5 @@
+node_modules
 deploy.sh
 deploy.sh.bak
+*.bak
+package*.json
